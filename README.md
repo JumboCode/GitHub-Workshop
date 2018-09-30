@@ -66,3 +66,4 @@ Changes to be committed:
 	new file:   tony-monaco.txt
 ```
 
+10. Commit the changes by running `git commit -m "[commit message]"`. Make sure you commit message is sensible! For example, `git commit -m "Added new tony monaco file"`
