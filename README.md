@@ -25,10 +25,19 @@ e.g. `git branch tony-monaco/workshop`
 
 When making branches, it's important that their names correlate directly to their new feature. In an actual repo, this might be something like `ton-manaco/header-bar-styling`
 
-3. Ensure your branch was created by running `git branch`. This will list your branches, you should see something like 
+3. Ensure your branch was created by running `git branch`. This will list your branches, you should see something like:
 ```
 $ git branch
 $ * master
 $ tony-manaco/workshop
 ```
 
+4. Check out your branch. This ensures change you make will be added to that branch only. 
+`git checkout [first name]-[last name]/workshop`
+
+5. Ensure you are on the right branch, again by running `git branch`. a `*` will be in front of your current branch, like:
+```
+$ git branch
+$ master
+$ *tony-manaco/workshop
+```
