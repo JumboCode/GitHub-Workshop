@@ -1,7 +1,6 @@
 # Github-Workshop
 Repo for 2018 Fall Github-Workshop
 11/30/18
-2nd Meeting!!
 
 # Workshop Goals
 The goal of this workshop is to provide a baseline familiarity with using git + GitHub. At the end of this workshop, you should be able to 
@@ -14,3 +13,8 @@ The goal of this workshop is to provide a baseline familiarity with using git + 
 
 Essentially, the basic functionalities of a GitHub-based development pipeline.
 
+# Instructions:
+1. Clone this repo: 
+`git clone https://github.com/JumboCode/GitHub-Workshop.git`
+
+2. 
