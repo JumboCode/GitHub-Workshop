@@ -54,3 +54,5 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
+
+8. Follow those git status instructios-- run `git add [file]`, e.g. `git add tony-manaco.txt`
