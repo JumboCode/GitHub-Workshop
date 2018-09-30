@@ -79,4 +79,12 @@ Becuase this branch is only local right now. So run `git push --set-upstream ori
 
 12. On Github, ensure your branch exists:
 
-![github-branches](./images/github-branches.png "Title")
+![github-branches](./images/github-branches.png)
+
+13. Go to *Pull Requests* and create a new pull request:
+![github-new-pr](./images/github-new-pr.png)
+
+14. Select the branch you were working on:
+![github-pr-select](./images/github-pr-select.png)
+
+
