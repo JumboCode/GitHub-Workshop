@@ -14,6 +14,8 @@ The goal of this workshop is to provide a baseline familiarity with using git + 
 Essentially, the basic functionalities of a GitHub-based development pipeline.
 
 # Instructions:
+0. Ensure you are a colaborator on this repo! Talk to your PM if you are not, and they will add you
+
 1. Clone this repo: 
 `git clone https://github.com/JumboCode/GitHub-Workshop.git`
 
