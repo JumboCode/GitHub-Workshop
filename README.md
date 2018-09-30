@@ -23,4 +23,4 @@ Essentially, the basic functionalities of a GitHub-based development pipeline.
 `git branch [first name]-[last name]/workshop`
 e.g. `git branch tony-monaco/workshop`
 
-When making branches, it's important that their names collarate directly to their new feature. In an actaul repo, this might be something like `ton-manaco/header-bar-styling`
+When making branches, it's important that their names correlate directly to their new feature. In an actual repo, this might be something like `ton-manaco/header-bar-styling`
