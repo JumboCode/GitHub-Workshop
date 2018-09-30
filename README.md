@@ -56,3 +56,13 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 8. Follow those git status instructios-- run `git add [file]`, e.g. `git add tony-manaco.txt`
+
+9. Run `git status` again. This time, you should see something like this:
+```
+On branch tony-monaco/workshop
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   tony-monaco.txt
+```
+
