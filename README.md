@@ -27,9 +27,9 @@ When making branches, it's important that their names correlate directly to thei
 
 3. Ensure your branch was created by running `git branch`. This will list your branches, you should see something like 
 
-$ git branch
+`$ git branch
 
 $ * master
 
-$ tony-manaco/workshop
+$ tony-manaco/workshop`
 
