@@ -14,10 +14,13 @@ The goal of this workshop is to provide a baseline familiarity with using git + 
 Essentially, the basic functionalities of a GitHub-based development pipeline.
 
 # Instructions:
+## Setup:
 0. Ensure you are a colaborator on this repo! Talk to your PM if you are not, and they will add you. 
 
 1. Clone this repo: 
 `git clone https://github.com/JumboCode/GitHub-Workshop.git`
+
+## Adding a feature:
 
 2. Create a new branch. Label it with your name and the feature:
 `git branch [first name]-[last name]/workshop`
@@ -81,6 +84,8 @@ Becuase this branch is only local right now. So run `git push --set-upstream ori
 
 ![github-branches](./images/github-branches.png)
 
+## Making a Pull Request:
+
 13. Go to *Pull Requests* and create a new pull request:
 ![github-new-pr](./images/github-new-pr.png)
 
@@ -100,4 +105,19 @@ b. A comment explaining what's going on in these changes
 
 c. Reviewers for this Pull Request. For this workshop, have one be a member of your team and one be your PM. 
 
+## Reviewing Pull Requests:
 
+*Important:* Don't (try) do these for the Pull Request you just made! Do this for someone on your team that just completed step 16.
+
+17. Go to the Pull Request page, go to the request you're reviewing:
+![github-pr-list](./images/github-pr-list.png)
+
+18. On the Pull Request, find the *Add your Review* button:
+![github-pr-add-review](./images/github-pr-add-review.png)
+
+19. Write a review; approve it if it looks good, or request additional changes if not. 
+*For this workshop, use this to determine if it 'looks good':*
+- Did they add the file with their name?
+- Did they modify any other files?
+- Are there unnecesary files added (e.g. system files like .DS_store)? 
+![github-pr-review-details](./images/github-pr-review-details.png)
