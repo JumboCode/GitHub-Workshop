@@ -79,4 +79,4 @@ Becuase this branch is only local right now. So run `git push --set-upstream ori
 
 12. On Github, ensure your branch exists:
 
-![github-brnaches](images/github-branches.png "Title")
+![github-branches](./images/github-branches.png "Title")
