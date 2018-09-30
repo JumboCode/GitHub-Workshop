@@ -121,3 +121,15 @@ c. Reviewers for this Pull Request. For this workshop, have one be a member of y
 - Did they modify any other files?
 - Are there unnecesary files added (e.g. system files like .DS_store)? 
 ![github-pr-review-details](./images/github-pr-review-details.png)
+
+## Merging Pull Requests
+
+20. If your pull request has been accepted, merge it (when on your teams, still double check functionality first)!
+Note that there are additional options for merging, e.g. *squashing*. These affect how the branch gets merged on top of the current state-- for now, just click the defaults. 
+![github-pr-merge](./images/github-pr-merge.png)
+
+
+21. Confrim the merge:
+![github-merge-confirm](./images/github-merge-confirm.png)
+
+22. It's merged! On your local machine, run `git checkout master` and `git pull`. Your master should now reflect the changes you made in your branch!
