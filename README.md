@@ -87,4 +87,12 @@ Becuase this branch is only local right now. So run `git push --set-upstream ori
 14. Select the branch you were working on:
 ![github-pr-select](./images/github-pr-select.png)
 
+15. Create the Pull Request:
+![github-pr-create](./images/github-pr-create.png)
 
+16. You'll be prompted for some info for your pull request:
+![github-pr-details](./images/github-pr-details.png)
+Ensure that (at least) these are filled out: 
+a. The title (in this case, the head commit)
+b. A comment explaining what's going on in these changes
+c. Reviewers for this Pull Request. For this workshop, have one be a member of your team and one be your PM. 
