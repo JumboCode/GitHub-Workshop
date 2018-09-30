@@ -78,4 +78,4 @@ To push the current branch and set the remote as upstream, use
 Becuase this branch is only local right now. So run `git push --set-upstream origin [branch name]` to set the remote destination also.
 
 12. On Github, ensure your branch exists:
-![github-branches](/images/github-branches.png)
+![github-brnaches](images/github-branches.png "Title")
