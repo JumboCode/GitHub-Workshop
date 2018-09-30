@@ -67,3 +67,12 @@ Changes to be committed:
 ```
 
 10. Commit the changes by running `git commit -m "[commit message]"`. Make sure you commit message is sensible! For example, `git commit -m "Added new tony monaco file"`
+
+11. Push the branch to remote (to GitHub!). If you run `git push`, you'll recieve a message like 
+```
+fatal: The current branch tony-monaco/workshop has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin tony-monaco/workshop
+```
+Becuase this branch is only local right now. So run `git push --set-upstream origin [branch name]` to set the remote destination also.
