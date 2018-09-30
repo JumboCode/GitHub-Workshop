@@ -23,13 +23,13 @@ Essentially, the basic functionalities of a GitHub-based development pipeline.
 `git branch [first name]-[last name]/workshop`
 e.g. `git branch tony-monaco/workshop`
 
-When making branches, it's important that their names correlate directly to their new feature. In an actual repo, this might be something like `ton-manaco/header-bar-styling`
+When making branches, it's important that their names correlate directly to their new feature. In an actual repo, this might be something like `tony-monaco/header-bar-styling`
 
 3. Ensure your branch was created by running `git branch`. This will list your branches, you should see something like:
 ```
 $ git branch
 $ * master
-$ tony-manaco/workshop
+$ tony-monaco/workshop
 ```
 
 4. Check out your branch. This ensures change you make will be added to that branch only. 
@@ -39,7 +39,7 @@ $ tony-manaco/workshop
 ```
 $ git branch
 $ master
-$ * tony-manaco/workshop
+$ * tony-monaco/workshop
 ```
 
 6. Add a new file to this directory! Create a new file, call it `[first name]-[last name].txt`. Put whatever you want in the body of the file.
