@@ -45,7 +45,7 @@ $ * tony-manaco/workshop
 6. Add a new file to this directory! Create a new file, call it `[first name]-[last name].txt`. Put whatever you want in the body of the file.
 
 7. Run `git status`. You should see something like:
-`
+```
 On branch tony-monaco/workshop
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
@@ -53,4 +53,4 @@ Untracked files:
 	tony-monaco.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
-`
+```
