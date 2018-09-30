@@ -1,6 +1,6 @@
 # Github-Workshop
 Repo for 2018 Fall Github-Workshop
-
+11/30/18
 
 # Workshop Goals
 The goal of this workshop is to provide a baseline familiarity with using git + GitHub. At the end of this workshop, you should be able to 
@@ -12,3 +12,4 @@ The goal of this workshop is to provide a baseline familiarity with using git + 
 - Land your changes
 
 Essentially, the basic functionalities of a GitHub-based development pipeline.
+
